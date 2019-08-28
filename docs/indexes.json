@@ -54,7 +54,7 @@
 				"mdlink": "apps_errorcode"
 			}
 		 ]
-        }，
+        },
 		{
 		"group": "服务端问题",
 		"contains": [
@@ -64,6 +64,5 @@
 			}
 		 ]
         }
-		
     ]
 }
