@@ -1,0 +1,69 @@
+{
+"contains": [
+	{
+		"group": "管理端问题",
+		"contains": [
+			{
+				"subject": "机构管理",
+				"mdlink": "org_manage"
+			},
+			{
+				"subject": "用户管理",
+				"mdlink": "user_manage"
+			},
+			{
+				"subject": "设备管理",
+				"mdlink": "device_manage"
+			},
+			{
+				"subject": "应用管理",
+				"mdlink": "application_manage"
+			},
+			{
+				"subject": "文件管理",
+				"mdlink": "file_manage"
+			},
+			{
+				"subject": "邮件管理",
+				"mdlink": "mail_manage"
+			},
+			{
+				"subject": "系统管理",
+				"mdlink": "system_manage"
+			},
+			{
+				"subject": "自门户",
+				"mdlink": "self_portal"
+			}
+		 ]
+        },
+		{
+			"group": "客户端问题",
+			"contains": [
+				{
+					"subject":"问题列表",
+					"mdlink":"aaps_errorlist"
+				}
+			]
+		},
+		{
+		"group": "客户端常见错误码",
+		"contains": [
+			{
+				"subject": "错误码列表",
+				"mdlink": "apps_errorcode"
+			}
+		 ]
+        }，
+		{
+		"group": "服务端问题",
+		"contains": [
+			{
+				"subject": "常规问题排查方法",
+				"mdlink": "server_errorcode"
+			}
+		 ]
+        }
+		
+    ]
+}
