@@ -42,7 +42,7 @@
 			"contains": [
 				{
 					"subject":"问题列表",
-					"mdlink":"aaps_errorlist"
+					"mdlink":"apps_errorlist"
 				}
 			]
 		},
