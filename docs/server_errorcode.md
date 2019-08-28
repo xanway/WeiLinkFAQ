@@ -58,7 +58,7 @@ curl，如：curl http://192.168.100.1/file/test.doc
 
 **数据库配置文件路径**：/home/exmobi/exmobi/exmobi/WEB-INF/classes/jdbc.properties
 
-## ７.服务器常规检查
+## 7.服务器常规检查
 
 查看操作系统版本：cat /etc/redhat-release
 
