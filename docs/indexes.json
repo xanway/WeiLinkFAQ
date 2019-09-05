@@ -1,6 +1,19 @@
 {
 "contains": [
-	{
+   {
+			"group": "EDN使用",
+			"contains": [
+				{
+					"subject":"打包流程",
+					"mdlink":"dabao"
+				},
+				{
+					"subject":"iOS证书申请流程",
+					"mdlink":"ios_certificate"
+				}
+			]
+		},
+       {
 		"group": "管理端问题",
 		"contains": [
 			{
