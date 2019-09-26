@@ -1,6 +1,15 @@
 {
 "contains": [
    {
+			"group": "ExMobi基座",
+			"contains": [
+				{
+					"subject":"6.0版本基座",
+					"mdlink":"jizuo"
+				}
+			]
+		},
+   {
 			"group": "EDN使用",
 			"contains": [
 				{
