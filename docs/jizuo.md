@@ -6,5 +6,5 @@
 
 1.在iOS设备上安装 TestFlight App。 
 
-2.点击如下公开链接邀请：https://testflight.apple.com/join/KQ7VOIz9，即可安装基座。
+2.点击如下公开链接邀请：https://testflight.apple.com/join/KQ7VOIz9
 
